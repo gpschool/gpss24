@@ -5,12 +5,24 @@ weight: 2
 ---
 ## Fees
 
+### Early-bird registrations: close June 28
+
 |               Attendee                                 |     Fee     | 
 |:--------------------------------------------------------|-------------:|
-|Academic (School and workshop)                          |      £350   |  
-|Academic (Workshop only)                                |       £80   |  
+|Academic (School and workshop)                          |      £300   |  
+|Academic (Workshop only)                                |       £60   |  
 |Industrial and Other Non-Academic (School and workshop) |      £900   |
+|Industrial and Other Non-Academic (Workshop only)       |      £200   |
+
+### Late registrations: close August 9
+
+|               Attendee                                 |     Fee     | 
+|:--------------------------------------------------------|-------------:|
+|Academic (School and workshop)                          |      £400   |  
+|Academic (Workshop only)                                |       £80   |  
+|Industrial and Other Non-Academic (School and workshop) |      £1000   |
 |Industrial and Other Non-Academic (Workshop only)       |      £250   |
+
 
 **The link to registration will be posted here soon.**
 

@@ -27,11 +27,13 @@ weight: 2
 **The link to registration will be posted here soon.**
 
 
-<!---
+
 
 ## Registration (open until August 11) 
 
-**[Register here](https://estore.manchester.ac.uk/conferences-and-events/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence/gaussian-process-and-uncertainty-quantification-summer-school)**
+**[Register here](https://estore.manchester.ac.uk/conferences-and-events/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence/gaussian-process-and-uncertainty-quantification-summer-school-2024)**
+
+<!---
 **Registrations are now closed.**
 
 Contact the [organisers](mailto:mauricio.alvarezlopez@manchester.ac.uk) if you want to be put on the waiting list.

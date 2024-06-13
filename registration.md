@@ -14,7 +14,7 @@ weight: 2
 |Industrial and Other Non-Academic (School and workshop) |      £900   |
 |Industrial and Other Non-Academic (Workshop only)       |      £200   |
 
-### Late registrations: close August 9
+### Standard registrations: close August 9
 
 |               Attendee                                 |     Fee     | 
 |:--------------------------------------------------------|-------------:|

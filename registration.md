@@ -6,7 +6,7 @@ weight: 2
 ## Fees
 
 
-### Standard registrations: close August 9
+### Standard registrations: close August 16
 
 |               Attendee                                 |     Fee     | 
 |:--------------------------------------------------------|-------------:|

@@ -2,7 +2,7 @@
 layout: page
 title: Accommodation
 tagline: where to stay and eat
-weight: 3
+weight: 5
 ---
 The University of Manchester has [this page](https://www.alliancembs.manchester.ac.uk/contact/hotel-bookings/) with special discounts at two hotels. 
 
